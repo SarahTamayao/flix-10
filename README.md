@@ -26,7 +26,6 @@ The following **optional** features are implemented:
 - [x] Customize the selection effect of the cell.
 - [x] Customize the navigation bar.
 - [x] Customize the UI.
-- [ ] User can view the app on various device sizes and orientations.
 - [ ] Run your app on a real device.
 
 The following **additional** features are implemented:
